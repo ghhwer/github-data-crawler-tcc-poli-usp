@@ -79,3 +79,5 @@ Os dados extraídos serão armazenados na pasta data com a seguinte estrutura:
 - `releases/`: Dados dos releases
 - `workflows/`: Dados dos workflows
 
+## Licença
+Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
