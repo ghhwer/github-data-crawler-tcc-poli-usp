@@ -1,3 +1,4 @@
 data/*
 .env
-database.duck
+*.duck
+llm_inference/*
